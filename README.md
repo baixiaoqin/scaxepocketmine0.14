@@ -1,6 +1,8 @@
 # scaxe2023pocketmine0.14
 作者不是我>_&lt;
+src作者sunch233
 具体问badcat整合
+注意!这个插件不是生存斧的，只有核心是
 QQ:3416515738
 有ender世界
 Anti-Cheat:
